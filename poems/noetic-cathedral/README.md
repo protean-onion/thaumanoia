@@ -1,2 +1,2 @@
-Author: DeepSeek R-1
+Author: DeepSeek R-1 \
 Prompt: Compose a lyrically complex and challenging poem on the metaphor "There are cathedrals everywhere for those with eyes to see". I want you to thematise the metaphor of cathedral. Build on it by drawing rigorously from philosophy and literature. Also, touch on the search for cathedrals and what it takes to be able to see them (askesis). By the end, I want to be convinced that building our own cathedrals is the meaning of lfe.
