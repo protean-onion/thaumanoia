@@ -1,5 +1,6 @@
 
 # | Name of the Moment | Phenomenological Texture | Mind’s Relation to the Transcendental Idea | Dominant Affective Tone | Typical Cognitive / Moral Pitfall | Lever for Transition
+
 1 | Naïve Positing | The Ideal shines as a self-evident horizon; reality is barely noticed | Idea is taken as given fact (confusion of regulative with constitutive use—subreption) | Wonder, attraction | Uncritical projection; “of course things are (or will be) like this” | First empirical frustration
 2 | Empirical Encounter | Concrete facts clash with the image; the crack appears | Idea remains unexamined; facts judged “aberrant” | Surprise, irritation | Denial of evidence; scapegoating | Repeated inconsistency forces reflection
 3 | Defensive Denial | Active refusal to integrate the gap (“It mustn’t be!”) | Idea absolutised; reality delegitimised | Anguish, rage, magical thinking | Splitting, blame, idealised nostalgia | Safe dialogical space or inward honesty that allows mourning
