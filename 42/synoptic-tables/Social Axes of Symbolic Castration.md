@@ -1,4 +1,4 @@
-| Axis                       | How Castration Differs                                                                                                                                                      |
+| Axis                       | How Symbolic Castration Differs                                                                                                                                                      |
 | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Class**                  | Upper classes often internalize the law as symbolic mastery; lower classes may be symbolically overexposed (shame) or under-inscribed (excluded from the scene of law)      |
 | **Race**                   | Racialized subjects may be positioned as **pre-symbolic**, denied full subjecthood; symbolic law operates via misrecognition or hyper-visibility                            |
