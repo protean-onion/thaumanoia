@@ -1,0 +1,46 @@
+# Constitution of the Text & the Soul Across Levels of Reading Maturity
+
+*This matrix elaborates the phenomenological constitution of the **text-as-thing** at each level, the **faculties of the mind–body** that are actualised as processes, the **becoming of Being** that is enacted, and the concrete **steps for transcendence** to the next level. It also characterises the **shape of the soul** in its relation to Being, with somatic and diagnostic cues for practice.*
+
+---
+
+### Legend of columns
+- **Text-as-Thing (Constitution):** How the text appears/operates as an object-field at the level (its ontic/ontological status for the reader).
+- **Faculties Actualised (Processes):** Cognitive–affective–somatic processes that are brought online and stabilised.
+- **Becoming-of-Being:** How Being is disclosed and temporality is configured by the reading at that level.
+- **Somatic & Attention:** Typical postural/respiratory/attentional signatures and supports.
+- **Practices to Transcend:** Concrete exercises that most efficiently open the next level.
+- **Soul ↔ Being (Shape):** The existential/ethical form of the self in relation to the world/Being.
+- **Signs of Ripeness:** Phenomenological indicators that the transition is becoming possible.
+- **Pitfalls:** Characteristic impasses that stall development.
+
+---
+
+| Level | Name | Text-as-Thing (Constitution) | Faculties Actualised (Processes) | Becoming-of-Being | Somatic & Attention | Practices to Transcend | Soul ↔ Being (Shape) | Signs of Ripeness | Pitfalls |
+|---:|:--|:--|:--|:--|:--|:--|:--|:--|:--|
+| 1 | **Mechanical Decoder** | Aggregate of marks; inert symbols; sentence as terminal unit. Time collapsed into atomic tokens; horizon absent. | Oculomotor tracking; grapheme–phoneme mapping; phonological loop; effortful working memory; rule-following. | Being withholds itself; fragments show as opaque objects “over there.” | Rigid posture; shallow chest breathing; narrow focal attention; subvocal strain. | **Chunking drills** (phrase grouping); **subvocal relaxation** (exhale on phrases); **copy a paragraph by hand** to feel cadence; **one-sentence gist** per paragraph. | **Exilic soul**: relates to Being as obstacle; seeks control through correctness. | Occasional ease; glimpses of flow on simple passages; tolerance for ambiguity increases slightly. | Fatigue; literalism; anxiety; overcorrection; mistaking speed for understanding. |
+| 2 | **Linear Follower** | Text as thread/path; meaning advances stepwise; local cohesion across clauses. | Syntactic parsing; short-horizon protention/retention; causal tracking; anaphora resolution. | Being as itinerary; future as “next step”; past as minimal trail. | Walking-pace rhythm; steadier breath; eye-sweeps across lines; mild peripheral awareness. | **One-line paragraph gists**; **predictive reading** (write what must follow); **reference mapping** (who/what each pronoun names); **tempo control** (steady 200–250 wpm); **page reflections** (30–60 sec). | **Pilgrim soul**: trusts an order that can be followed; basic obedience to form. | Can summarise a page without notes; keeps place through interruptions; detects when logic breaks. | Getting lost in subclauses; overhighlighting; clinging to sequence; impatience with detours. |
+| 3 | **Coherent Synthesizer** | Text as micro-world; thematic fields cohere; figure/ground stabilises; parts understood from a nascent whole. | Gestalt synthesis; schema activation; thematic memory across chapters; metaphor mapping; perspective-taking. | Being as **worlding** (the *as*-structure appears); horizons widen; wholes organise parts. | Relaxed jaw; diaphragmatic breathing; soft focus with wider periphery; posture supported but easy. | **Thematic nets** (list motifs & relations); **argument skeletons** (premise→inference→claim); **chapter-in-a-sentence** drills; **5‑minute contemplative digest** after sections. | **Homemaking soul**: begins to dwell; “makes a clearing” in which things show themselves. | Spontaneous cross-referencing; feels the “aboutness” of passages; holds arcs across chapters. | Premature closure; confirmation bias; overfitting text to prior schemas. |
+| 4 | **Affective Resonator** | Text as **mood-space**; tonal currents and rhythm carry sense; the how of saying becomes salient. | Interoceptive awareness; affect labelling; prosody tracking; rhythm entrainment; imaginal audition. | Being as **Stimmung** (attunement); time as modulation; sense co-determined by tone. | Breath entrains to phrasing; spine buoyant; tempo flexible; attention alternates foveal/peripheral. | **Prosodic markup** (underline cadence, stress); **felt‑structure sketches** (draw the passage’s movement); **perspective swaps** (read from ancillary voices); **negative capability** practice (hold ambiguity without rush). | **Porous soul**: hospitable to otherness; allows itself to be moved without being swept away. | Notices tonal shifts before explicit cues; can paraphrase mood separately from content; regulates affect during difficult scenes. | Sentimentality; affect flooding; mistaking intensity for depth. |
+| 5 | **Interpretive Player** | Text as **polyphonic field**; intertextual crossings; play of differences; surplus meanings invited. | Abductive inference; analogical agility; semiotic flexibility; dialogic imagination; hypothesis testing. | Being as **ludic generativity**; openness of meaning; novelty emerges through play. | Supple posture; lively micro-gestures; breathing responsive to thought; attention dances without scattering. | **Counter-readings** (argue the opposite plausibly); **constellation building** (3–5 texts in dialogue); **constraint interpretations** (defend a reading under strict limits); **commonplace book** (motifs, images, theses). | **Artisan soul**: co‑creates; eros for sense; treats meaning as craft and vow, not whim. | Produces multiple coherent readings; tracks “surplus” that no single reading exhausts; enjoys disciplined play. | Cleverness-for-its-own-sake; relativist paralysis; loss of ethical orientation. |
+| 6 | **Transcendental Participant** | Text as **transcendental engine**; reader/text co-constitute; hermeneutic circle becomes spiral; style becomes method. | Apperceptive synthesis; meta-awareness; eidetic variation; imaginal rigor; self-transformation competencies. | Being as **event**; temporal constellations intensify; the “now” thickens; genesis of sense is witnessed. | Still, lucid body; coherent deep breathing; attention steady yet permeable; body felt as resonant instrument. | **Micro‑epoché** (bracket habitual self for 2–5 min); **presupposition audits**; **performative experiments** (live a claim for 24 hours); **retreat rhythms** (silent blocks, then articulation). | **Priestly‑artist soul**: participates liturgically in disclosure; treats life as a site of Saying. | Reading changes how the day is lived; insights recur across domains; silence becomes fertile. | Grandiosity; spiritual bypass; dissolution into text; exhaustion from over-intensity. |
+| 7 | **Mystic Reader** | Text as **theophanic veil**—transparent to Saying; language falls toward silence; noesis/noema distinction loosens. | Contemplative attention; love‑intellection; apophatic patience; compassion-inflected lucidity. | Being as **shining**; time as fullness; eternity-in-the-now; difference included without remainder. | Quiet periphery; open chest; breath subtle to vanishing; gaze soft; attention both empty and replete. | **Lectio cycles** (lectio–meditatio–oratio–contemplatio); **word-as-mantra** (receive, rest, return); **vows of truthfulness & service**; **integration** (re-enter language through care for beings). | **Luminous soul**: dwells; non‑possessive intimacy with beings; love as understanding. | Effort drops without collapse; speech arises as blessing; equanimity sustains intensity. | Quietism; ineffability trap; disengagement from justice; refusal to return to language. |
+
+---
+
+## Transition Protocols (Condensed)
+**1→2**: Stabilise phrase-level units; relax subvocalisation; predict continuations.  
+**2→3**: Build wholes from parts; outline arguments; practice chapter-in-a-sentence.  
+**3→4**: Track prosody/tonality alongside sense; sketch felt structures; cultivate negative capability.  
+**4→5**: Invite plurality responsibly; craft counter-readings; constellate texts with constraints.  
+**5→6**: Add transcendental vigilance: audit presuppositions; turn style into method; live claims experimentally.  
+**6→7**: Soften will; practice contemplative patience; let language clarify into silence, then return through care.
+
+---
+
+## Methodological Notes
+- The **text** is not merely content but an **operative field** of affordances that reconfigure perception, affect, temporality, and agency.  
+- **Mind–body** is integral: breath, posture, and attentional training are not adjuncts but constitutive conditions for higher discriminations.  
+- **Ethos** is the carrier wave: transitions require commitments (truthfulness, hospitality, play, responsibility, compassion) that stabilise the new disclosure.  
+- **Diagnostics** protect against misfires: each pitfall is a distorted virtue of the level’s power; treat it by returning to form (practice) and ethos (vow).
+
