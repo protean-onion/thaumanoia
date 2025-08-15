@@ -8,3 +8,4 @@
 | **Transcendent Orientation**         | Alignment with values beyond immediate survival; openness to the Absolute | **Positive:** Visionary purpose, ethical universality / **Pathological:** Fanaticism, self-negating asceticism | The Prophet or The Zealot |
 | **Generative Stewardship**           | Cultivation of meaning for others; transmission of legacy | **Positive:** Mentorship, cultural renewal / **Pathological:** Controlling paternalism, stagnating tradition | The King/Queen or The Tyrant |
 
+
